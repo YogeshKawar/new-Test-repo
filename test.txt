@@ -1,0 +1,5 @@
+1. Git clone *giturl*
+2. git checkout -b (folder name)
+3. git add. - all files from cloned url will get added in eclipse or ide
+4.git commit -m "message"
+5. git push - last command to push code on repo
